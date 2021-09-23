@@ -21,6 +21,7 @@ readme PR
 - t8
 - t8
 
+
 ## Features
 
 - A simple landing page with blog functionality built with Netlify CMS
